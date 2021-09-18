@@ -15,14 +15,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-## Join My Group
-<a href="https://t.me/FUUCK_YYOU" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ninja1120)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ninja1120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/FUUCK_YYOU)  
 
 - 🥀 I’m interested in ..🍁
 - 🦄 I’m currently learning ...🤔
