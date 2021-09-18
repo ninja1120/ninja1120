@@ -5,7 +5,7 @@
 
 <a href="https://t.me/zeus_of_tg">
 <p align="center">
-  <img src="https://telegra.ph/file/374314f8f199b639bf44c.jpg">
+  <img src="https://telegra.ph/file/0dfaa505bd78f5d818b1a.jpg">
 </p>
 
 
