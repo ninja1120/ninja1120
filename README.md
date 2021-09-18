@@ -9,7 +9,7 @@
 </p>
 
 
-## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/zeus_of_tg) 
+## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/FUCK_YYOU) 
 <br>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
 - [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
-<img align="right" alt="GIF" src="https://i.gifer.com/5nBy.gif" />
+<img align="right" alt="GIF" src="https://data.whicdn.com/images/203053928/original.gif" />
 
 <!---
 Im-zeus/Im-zeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
