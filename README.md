@@ -14,9 +14,12 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+### Telegram Group
+<p align="left">
+<a href="https://t.me/FUUCK_YYOU" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ninja1120)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ninja1120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/FUUCK_YYOU)  
-
+  
 - 🥀 I’m interested in ..🍁
 - 🦄 I’m currently learning ...🤔
 - 🌀 I’m looking to collaborate on ...❓
