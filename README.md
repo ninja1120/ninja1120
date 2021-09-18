@@ -29,8 +29,7 @@ You can use the website to generate badges: https://shields.io/
 
 ##   **Github Stats**
   ![Ninja stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true&theme=tokyonight)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
   
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
