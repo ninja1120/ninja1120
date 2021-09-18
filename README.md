@@ -1,6 +1,6 @@
 <img src="https://2img.net/h/i.stack.imgur.com/eoA3f.gif" width="70px">
 
-# Hey, I am Zeus🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
+# Hey, I am Zeus🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="200px">
 
 
 <a href="https://t.me/zeus_of_tg">
