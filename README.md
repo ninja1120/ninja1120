@@ -1,4 +1,4 @@
-# Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
+# Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"><img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
 <p align="center">
   <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 
 ##   **Github Stats**
   ![Ninja stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true&theme=tokyonight)
-
+ 
   
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+ 
  
 # Join🦄🍁
 [🍁TELEGRAM GROUP🦄](https://t.me/FUUCK_YYOU)
