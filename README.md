@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/OWTg.mp4" width="70px">
+<img src="https://i.gifer.com/MFQ1.gif" width="70px">
 
 # Hey, I am Zeus🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
