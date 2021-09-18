@@ -61,11 +61,6 @@
 <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
