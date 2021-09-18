@@ -1,4 +1,4 @@
-# Hey, I am Ninjahttps://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/heart-on-fire_2764-fe0f-200d-1f525.png  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
+# Hey, I am Ninja  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
 <p align="center">
   <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
