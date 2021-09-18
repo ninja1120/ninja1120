@@ -6,11 +6,6 @@
 
 ## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/FUCK_YYOU) 
 <br>
-
-![Profile views](https://gpvc.arturio.dev/ninja1120)  
-
-- [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/jzHFPlw89eTqU/200.webp?cid=ecf05e47u8bev98ay9pf452zeh7k1uisz2nuc6kz5r4du3pv&rid=200.webp&ct=g" />
   
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
