@@ -44,8 +44,7 @@ You can click the Preview link to take a look at your changes.
 
  
 # Join🦄🍁
-
-[🍁Telegram Group🦄](t.me/FUUCK_YYOU)
+[🍁TELEGRAM GROUP🦄](https://t.me/FUUCK_YYOU)
 
 [🍁DEVELOPER NINJA🦄](https://t.me/FUCK_YYOU)
 
