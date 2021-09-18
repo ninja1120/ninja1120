@@ -4,7 +4,10 @@
 
 I'm Ninja from Egypt, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on Telegram 
 
