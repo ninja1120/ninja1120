@@ -30,8 +30,7 @@ I created these images, feel free to use them.
 - 👻 Fun Fact: I'm Still Student😑
 - 😈 I'm Bad but I'm not Fake
 
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true)  
 
 # GITHUB STATUS.
   
