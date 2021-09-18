@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
 - [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.gifer.com/5nBy.gif" />
 
 <!---
 Im-zeus/Im-zeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
