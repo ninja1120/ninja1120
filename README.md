@@ -1,9 +1,9 @@
 <img src="https://c.tenor.com/lj4VOZeJTF0AAAAC/anime-boy-handsome.gif" width="70px">
 
-# Hey, I am Zeus🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
+# Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
 
-<a href="https://t.me/zeus_of_tg">
+<a href="https://t.me/FUCK_YYOU">
 <p align="center">
   <img src="https://telegra.ph/file/283dc1bc3744665c92532.jpg">
 </p>
@@ -16,12 +16,12 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 ## Join My Group
-<a href="https://t.me/NoobiezHub" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/FUUCK_YYOU" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Im-zeus)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ninja1120)
 
 
 - 🥀 I’m interested in ..🍁
@@ -34,8 +34,8 @@ I created these images, feel free to use them.
 
 
 # GITHUB STATUS.
-
-- ![Profile views](https://gpvc.arturio.dev/Im-zeus)
+  
+![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
 - [![GitHub followers](https://img.shields.io/github/followers/Im-zeus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Im-zeus?tab=followers)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
