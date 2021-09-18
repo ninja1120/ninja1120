@@ -6,7 +6,6 @@
 
 ## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/FUCK_YYOU) 
 <br>
-  
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
