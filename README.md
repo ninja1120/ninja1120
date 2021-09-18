@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/lj4VOZeJTF0AAAAC/anime-boy-handsome.gif" width="70px">
+<img src="https://64.media.tumblr.com/3dc73525aed2eb2abc8ab23f4f2e7b86/tumblr_nyngh7Gmwu1s4zd0zo1_500.gifv" width="70px">
 
 # Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
