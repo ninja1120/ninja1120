@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
   
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
-- [![GitHub followers](https://img.shields.io/github/followers/Im-zeus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!---
@@ -45,9 +45,7 @@ You can click the Preview link to take a look at your changes.
  
 # Join🦄🍁
 
-[🍁NOOBIEZHUB💫](t.me/noobiezhub)
+[🍁Telegram Group🦄](t.me/FUUCK_YYOU)
 
-[🍂MAGICAL MUSH🦄](https://t.me/magiclmush)
-
-[✨️NAZRIYA SUPPORT🎉](https://t.me/NAZRIYAOFFTOPIC)
+[🍁DEVELOPER NINJA🦄](https://t.me/FUCK_YYOU)
 
