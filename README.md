@@ -1,8 +1,8 @@
+# Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
+
 <p align="center">
   <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
 </p>
-
-# Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
 
 <a href="https://t.me/FUCK_YYOU">
