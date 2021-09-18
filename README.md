@@ -28,6 +28,12 @@ You can use the website to generate badges: https://shields.io/
  
 <p align="center"><a href="https://github.com/ninja1120"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1120&theme=radical&layout=compact"></a></p> 
 
+![Profile views](https://gpvc.arturio.dev/ninja1120)  
+
+- [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/jzHFPlw89eTqU/200.webp?cid=ecf05e47u8bev98ay9pf452zeh7k1uisz2nuc6kz5r4du3pv&rid=200.webp&ct=g" />
+  
+
 <!---
 Im-zeus/Im-zeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
