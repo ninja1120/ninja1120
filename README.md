@@ -27,9 +27,8 @@ You can use the website to generate badges: https://shields.io/
 - 👻 Fun Fact: I'm Still Student😑
 - 😈 I'm Bad but I'm not Fake
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true)  
-
-# GITHUB STATUS.
+##   **Github Stats**
+  ![Ninja stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true&theme=tokyonight)
   
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
