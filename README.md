@@ -1,4 +1,6 @@
-<img src="https://media4.giphy.com/media/cd6Fp0qEGR3ag/200.webp?cid=ecf05e47rny9jewk7eg8c50yuoy2aj79k8crxn0fb8927z68&rid=200.webp&ct=g" width="70px">
+<p align="center">
+  <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
+</p>
 
 # Hey, I am Ninja🧚  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
