@@ -4,13 +4,6 @@
   <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
 </p>
 
-
-<a href="https://t.me/FUCK_YYOU">
-<p align="center">
-  <img src="https://telegra.ph/file/283dc1bc3744665c92532.jpg">
-</p>
-
-
 ## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/FUCK_YYOU) 
 <br>
 <!-- Your badges
