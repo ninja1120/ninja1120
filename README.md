@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
  
  
 # Join🦄🍁
-[🍁TELEGRAM GROUP🦄](https://t.me/FUUCK_YYOU)
+[🍁TELEGRAM GROUP🦄](https://t.me/ninjaaa_bots)
 
-[🍁DEVELOPER NINJA🦄](https://t.me/FUCK_YYOU)
+[🍁DEVELOPER NINJA🦄](https://t.me/dont_run)
 
