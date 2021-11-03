@@ -1,7 +1,7 @@
 # Hey, I am Ninja ❤️  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
+  <img src="https://telegra.ph/file/70cfd7ff37c40a75b1138.mp4">
 </p>
 
 ## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/FUCK_YYOU) 
