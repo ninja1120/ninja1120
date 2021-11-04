@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 ![Profile views](https://gpvc.arturio.dev/ninja1120)  
 
 - [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
-<img align="right" alt="mp4" src="https://telegra.ph/file/70cfd7ff37c40a75b1138.mp4" />
+<img align="right" alt="gif" src="https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif" />
   
 
 <!---
