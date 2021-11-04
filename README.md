@@ -9,20 +9,13 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-### Telegram Group
   
+- programmer in python language..🍁
+- As the name of all the destruction of you
+- Damn the poor and the stupid 
+- I am here all in all
+- Bring your mother to bed her at night
   
-<p align="left">
-<a href="https://t.me/FUUCK_YYOU" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-
-  
-- 🥀 I’m interested in ..🍁
-- 🦄 I’m currently learning ...🤔
-- 🌀 I’m looking to collaborate on ...❓
-- 👻 Fun Fact: I'm Still Student😑
-- 😈 I'm Bad but I'm not Fake
-
 ##   **Github Stats**
   ![Ninja stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true&theme=tokyonight)
  
@@ -42,8 +35,7 @@ You can click the Preview link to take a look at your changes.
 
  
  
-# Join🦄🍁
-[🍁TELEGRAM GROUP🦄](https://t.me/ninjaaa_bots)
+**NiNja FuCk YoURe MoThEr**
 
-[🍁DEVELOPER NINJA🦄](https://t.me/dont_run)
+[YeS Me <](https://t.me/dont_run)
 
