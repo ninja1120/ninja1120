@@ -19,11 +19,11 @@ You can use the website to generate badges: https://shields.io/
 ##   **Github Stats**
   ![Ninja stats](https://github-readme-stats.vercel.app/api?username=ninja1120&show_icons=true&theme=tokyonight)
  
-<p align="center"><a href="https://github.com/ninja1120"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1120&theme=radical&layout=compact"></a></p> 
+                                            <p align="center"><a href="https://github.com/ninja1120"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1120&theme=radical&layout=compact"></a></p> 
 
 
 - [![GitHub followers](https://img.shields.io/github/followers/ninja1120.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninja1120?tab=followers)
-<img align="right" alt="gif" src="https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif" /> ![Profile views](https://gpvc.arturio.dev/ninja1120)  
+<img align="right" alt="gif" src="https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif" />  ![Profile views](https://gpvc.arturio.dev/ninja1120)  
   
 
 <!---
