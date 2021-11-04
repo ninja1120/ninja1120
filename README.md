@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/naSgH6R3RHNi8/giphy.gif">
 </p>
 
-## **[CoTaNt Me oN TeLeGrAM 💻<](https://t.me/dont_run)**
+## **[CoTaNt Me oN TeLeGrAM >💻<](https://t.me/dont_run)**
 <br>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
