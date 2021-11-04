@@ -9,7 +9,6 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-  
 - programmer in python language..🍁
 - As the name of all the destruction of you
 - Damn the poor and the stupid 
